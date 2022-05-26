@@ -230,13 +230,8 @@ class moniteur:
                                 "inline": True
                             })
                         result = requests.post(weburl, json=data)
-
-                        if 429 == result.status_code:
-                            print(f"{Spy.blanc}[{Spy.rouge}ERREUR{Spy.blanc}] - Rate Limit !")
-                            time.sleep(10)
-                        else:
-                            posting.append(str(post))
-                            print(f"{Spy.blanc}[{Spy.bleu}POSTE{Spy.blanc}] - Poste envoyé !")
+                        posting.append(str(post))
+                        print(f"{Spy.blanc}[{Spy.bleu}POSTE{Spy.blanc}] - Poste envoyé !")
             except:
                 time.sleep(10)
 

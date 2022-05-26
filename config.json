@@ -1,0 +1,79 @@
+{
+    "token": "OTc1Nzg0NzU5ODA2NTI5NTk2.GJSyre.C8y9z2a4kSJbe3QcWy2R1Q3WehTv5yCyE1k1kY",
+    "prefix": "!",
+    "status": "ON",
+    "suburl": {
+        "https://discord.com/api/webhooks/975812295437455372/DSOyWFHWAGZQoySj3JEOfK22JxItUzZs03SAcl_uH1YSTLQsOt2ArcPSTGGSChJ4635a": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&price_from=0&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first&search_id=5304641616&brand_id[]=41&search_text=cargo&price_to=15",
+            "salon": "cargo"
+        },
+        "https://discord.com/api/webhooks/975821960875487322/sUdoAlXihBM9wg93Bx1SnrOEXIWjBL2uQVWZhVcCEi1dJA3B4FxG1oAtumqwaBIzPESI": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=12&catalog[]=1125&order=newest_first&price_to=55&currency=EUR&price_from=15",
+            "salon": "ensemble-blazer"
+        },
+        "https://discord.com/api/webhooks/976811090979729458/MtZifWJqWRFZtfNJnTHLJRRYGXYSUpeenZiHIvStg48djm7pJFBSa0zGrxf0h9f5xkML": {
+            "url": "https://www.vinted.fr/vetements?search_text=pantalon%20wide%20leg&search_id=5354535887&brand_id[]=140&size_id[]=3&size_id[]=4&size_id[]=5&time=1652960194&page=2",
+            "salon": "patdeph"
+        },
+        "https://discord.com/api/webhooks/979375579537215510/UP3F5ap83fPrMG3AMioAB_F4FAspOHhMBHmG7clPMJa-Gz7hpeZP1RuuNhc7L5iFMGsF": {
+            "url": "https://www.vinted.fr/vetements?search_id=5428733457&catalog[]=267&catalog[]=1811&catalog[]=264&catalog[]=1813&catalog[]=1814&catalog[]=1815&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=88&price_from=1&currency=EUR&price_to=20&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first",
+            "salon": "pull-ralph-lauren"
+        },
+        "https://discord.com/api/webhooks/979375971100680222/PRXFs2P1kNRGCVejKs2KBGuf8Y93dy8LNASp6IoYZzEWLjBR0fZ09H_HSX9PNNQB0tEk": {
+            "url": "https://www.vinted.fr/vetements?search_id=5428733457&catalog[]=267&catalog[]=1811&catalog[]=1814&catalog[]=1815&size_id[]=207&size_id[]=208&size_id[]=209&price_from=1&currency=EUR&price_to=20&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first&brand_id[]=53",
+            "salon": "pull-nike"
+        },
+        "https://discord.com/api/webhooks/979376155406770206/e9_H0X78oW4txwCkx2a63hjlh6XYOkPDQ6ReXm4A7o6JtBL3wE55XXE-tyZHt4qHs053": {
+            "url": "https://www.vinted.fr/vetements?search_id=5428733457&catalog[]=267&catalog[]=1811&catalog[]=1814&catalog[]=1815&size_id[]=207&size_id[]=208&size_id[]=209&price_from=1&currency=EUR&price_to=20&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first&brand_id[]=362",
+            "salon": "pull-carharrt"
+        },
+        "https://discord.com/api/webhooks/979376476350722100/VBoy8OSn6SpIDY2wviEoB1qZCyPLG6tmeHpowtqznMlslU6cEMjAP2VCTuPC5y22v4f5": {
+            "url": "https://www.vinted.fr/vetements?search_id=5428733457&size_id[]=207&size_id[]=208&size_id[]=209&price_from=1&currency=EUR&price_to=20&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first&brand_id[]=53&catalog[]=1821",
+            "salon": "jogging-nike"
+        },
+        "https://discord.com/api/webhooks/979376587046785084/RhJ-nEdwrSNfigeiUAu6x_SsKUSqesxZ2srb1SqdHsFlSfizBs_4OnyH3GgsldkSE5_T": {
+            "url": "https://www.vinted.fr/vetements?search_id=5428733457&size_id[]=207&size_id[]=208&size_id[]=209&price_from=1&currency=EUR&price_to=20&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first&brand_id[]=88&catalog[]=1821",
+            "salon": "jogging-ralphlauren"
+        },
+        "https://discord.com/api/webhooks/979376805435830292/I3qfrFZ2HrQh2KY41VZIUdTRfW0z1Lqwk4dzloxDEA7NdoqQp3zItiQlau7C327J9DPY": {
+            "url": "https://www.vinted.fr/vetements?search_id=5428800038&size_id[]=207&size_id[]=208&size_id[]=209&price_from=1&currency=EUR&price_to=20&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first&brand_id[]=362&search_text=cargo%20carhartt",
+            "salon": "cargo-carrhart"
+        },
+        "https://discord.com/api/webhooks/979377031265534022/-4etyLOGNqESqRnmzYFx_IzgdbNoXg_MKL8xz6q5SDJdOwOQYzalyzSfg2KdD-Od_Ly_": {
+            "url": "https://www.vinted.fr/vetements?search_id=5428800038&size_id[]=207&size_id[]=208&size_id[]=209&price_from=1&currency=EUR&price_to=20&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first&search_text=&catalog[]=1812&catalog[]=1825&brand_id[]=53",
+            "salon": "zip-nike"
+        },
+        "https://discord.com/api/webhooks/979377191311802368/bLd8PYvhbLRPIOyp-Lqit2-ta529qyFr_CwVXHK3dTFqJycudeM2pWJnwrSStKop6677": {
+            "url": "https://www.vinted.fr/vetements?search_id=5428814072&size_id[]=207&size_id[]=208&size_id[]=209&price_from=1&currency=EUR&price_to=20&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first&search_text=gap&catalog[]=1812&catalog[]=1825&brand_id[]=6",
+            "salon": "zip-gap"
+        },
+        "https://discord.com/api/webhooks/979377327588904960/C2xK62d4FHC7dmwZhLVAlO0yw6f6jHp44gLLdq-640fA6Q-fxdOdx5j7yvp8DaF8dAW6": {
+            "url": "https://www.vinted.fr/vetements?search_id=5428828669&size_id[]=207&size_id[]=208&size_id[]=209&price_from=1&currency=EUR&price_to=25&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first&catalog[]=1812&catalog[]=1825&search_text=zip%20ralph&brand_id[]=88",
+            "salon": "zip-ralph"
+        },
+        "https://discord.com/api/webhooks/979377524125610044/3F6PTkmvH3jPyIhWc6L71mlTfs6liCgeffk3I0zD8V00Rlcz89_XkUc2Ya-YRPVJbiJb": {
+            "url": "https://www.vinted.fr/vetements?search_id=5428820830&size_id[]=207&size_id[]=208&size_id[]=209&price_from=1&currency=EUR&price_to=20&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first&catalog[]=1812&catalog[]=1825&search_text=zip%20lacoste&brand_id[]=304",
+            "salon": "zip-lacoste"
+        },
+        "https://discord.com/api/webhooks/979377901118046288/WFE8m4kS2VQaphmd7DQG2sVsYPwG1Y7zZMKbX1970-Js8vCpyyUdlmk7B2KqqJOUhpXC": {
+            "url": "https://www.vinted.fr/vetements?search_id=5428836011&size_id[]=207&size_id[]=208&size_id[]=209&price_from=1&currency=EUR&price_to=35&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first&search_text=nike%20tech",
+            "salon": "nike-tech"
+        },
+        "https://discord.com/api/webhooks/979378237035642901/tQS8XWWLVkG_u_7tG8sbm4tvQQAqYK1VwaPqe1a9Ghtncr7HsmPJjpPqQHLYJJb47k3n": {
+            "url": "https://www.vinted.fr/vetements?search_id=5428850763&currency=EUR&order=newest_first&price_from=1&price_to=45&status[]=6&status[]=1&status[]=2&status[]=3&catalog[]=1242&brand_id[]=53&search_text=air%20force%201",
+            "salon": "airforce-1"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "non",
+        "avis": "non",
+        "localisation": "non",
+        "marque": "non",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
